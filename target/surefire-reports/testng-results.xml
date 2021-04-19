@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="35" started-at="2021-04-18T21:47:47 IST" finished-at="2021-04-18T21:47:47 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="35" started-at="2021-04-18T21:47:47 IST" finished-at="2021-04-18T21:47:47 IST">
+      <class name="Maven.Project.RESTAPITest">
+        <test-method status="PASS" signature="RESTAPITests()[pri:0, instance:Maven.Project.RESTAPITest@335eadca]" name="RESTAPITests" duration-ms="4" started-at="2021-04-18T21:47:47 IST" finished-at="2021-04-18T21:47:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RESTAPITests -->
+      </class> <!-- Maven.Project.RESTAPITest -->
+      <class name="Maven.Project.SeleniumTest">
+        <test-method status="PASS" signature="SeleniumTests()[pri:0, instance:Maven.Project.SeleniumTest@210366b4]" name="SeleniumTests" duration-ms="1" started-at="2021-04-18T21:47:47 IST" finished-at="2021-04-18T21:47:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SeleniumTests -->
+      </class> <!-- Maven.Project.SeleniumTest -->
+      <class name="Maven.Project.AppiumTest">
+        <test-method status="PASS" signature="AppiumTests()[pri:0, instance:Maven.Project.AppiumTest@eec5a4a]" name="AppiumTests" duration-ms="0" started-at="2021-04-18T21:47:47 IST" finished-at="2021-04-18T21:47:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AppiumTests -->
+      </class> <!-- Maven.Project.AppiumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
